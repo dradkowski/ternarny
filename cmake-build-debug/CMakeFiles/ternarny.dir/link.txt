@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/ternarny.dir/main.c.o  -o ternarny 
